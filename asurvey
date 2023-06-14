@@ -1,0 +1,21 @@
+print ("Hi, welcome to my survey.");
+
+print("This should take a few minutes.");
+
+	
+print("	1. What is your first name:  ");
+q1=input();
+print ("  2. Are you male/female:  ");
+q2=input();
+print(" 3. Are you under 5'8:  ");
+q3=input();
+print(" 4. Do you wear glasses:  ");
+q4=input();
+print (" 5. Do you have a car and/or license:  ");
+q5=input();
+print (" 6. Are you from oregon:  ");
+q6=input();
+print (" 7. What is your hairlength zero, short, medium, long  ");
+q7=input();
+
+print("\n q1 first name:  ",q1,"\n q2  m/f:  ",q2,"\n q3 5-ish ",q3,"\n q4 glasses:  ",q4,"\n q5  eco  ",q5,"\n q6 or  ",q6,"\n q7 hlength  ",q7);
